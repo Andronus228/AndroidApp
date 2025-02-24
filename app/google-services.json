@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586312254896",
+    "project_id": "autokatalog-516a3",
+    "storage_bucket": "autokatalog-516a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586312254896:android:4049bf212b7232884ec275",
+        "android_client_info": {
+          "package_name": "com.example.autokatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCucB60kgO3xC87VopcgZTJil4SjspLxWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
